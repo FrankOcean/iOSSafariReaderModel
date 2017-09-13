@@ -1,0 +1,307 @@
+<body onload="ReaderJS.loaded();">
+<iframe aria-hidden="true" id="next-page-container"></iframe>
+<div id="article" role="article"><div style="position: absolute; top: -999em"><article class="post-article" postid="111417" ptime="1492420683" posturl="http://www.pingwest.com/hp-elitebook-x360-g2/">
+<div class="post-img" style="background-image: url(http://cdn.pingwest.com/wp-content/uploads/2017/04/IMG_2498.jpg)">
+<div class="overlay"></div>
+<div class="single-inner">
+<div class="post-img-left">
+<div class="single-head">
+<div class="post-head">
+<h1 class="title">HP EliteBook X360体验：360度翻转、手写笔这些流行元素它都有了</h1>
+</div>
+<div class="post-meta">
+<div class="autor-meta">
+<a class="autor" href="http://www.pingwest.com/user/?uid=21820">
+<img src="http://cdn.pingwest.com/wp-content/uploads/2017/02/WechatIMG61-100x100.jpeg" width="30" height="30" alt="LU" class="avatar avatar-30 wp-user-avatar wp-user-avatar-30 alignnone photo">
+<span class="name">LU</span>
+</a>
+<span class="post-time">2017-04-17</span>
+<span class="post-category">
+<a href="http://www.pingwest.com/category/product/"><i class="icon-layout"></i>产品 </a>
+</span>
+</div>
+<div class="share-meta hidden-xs">
+<ul>
+<li><a target="_blank" href="http://service.weibo.com/share/share.php?appkey=761238391&amp;url=http://www.pingwest.com/hp-elitebook-x360-g2/&amp;ralateUid=2833534593&amp;title=【HP EliteBook X360体验：360度翻转、手写笔这些流行元素它都有了】&amp;pic=http://cdn.pingwest.com/wp-content/uploads/2017/04/IMG_2498.jpg" onclick="ga('send', 'event', 'single-weibo', 'click', 'post111417');"><i class="icon-weibo"></i></a></li>
+<li><a class="btn-weixin" href="javascript:;" target="_self" onclick="ga('send', 'event', 'single-weixin', 'click', 'post111417');"><i class="icon-weixin"></i></a></li>
+<li><a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.pingwest.com%2Fhp-elitebook-x360-g2%2F&amp;title=HP+EliteBook+X360%E4%BD%93%E9%AA%8C%EF%BC%9A360%E5%BA%A6%E7%BF%BB%E8%BD%AC%E3%80%81%E6%89%8B%E5%86%99%E7%AC%94%E8%BF%99%E4%BA%9B%E6%B5%81%E8%A1%8C%E5%85%83%E7%B4%A0%E5%AE%83%E9%83%BD%E6%9C%89%E4%BA%86&amp;source=http%3A%2F%2Fwww.pingwest.com%2Fhp-elitebook-x360-g2%2F" onclick="ga('send', 'event', 'single-linkedin', 'click', 'post111417');">
+<i class="icon-linkedin-outline"></i>
+</a></li>
+</ul>
+</div>
+<span class="img-by">
+</span>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class="single-inner single-pin-wrap">
+<div class="single-left">
+<div class="single-box">
+<div class="box-con">
+<div id="sc-container" class="post-con sc-container">
+<p>自从苹果MacBook Air问世之后，轻薄笔电就开始了突飞猛进的发展，Mac独特的一体化设计也是各家赶超的对象。放眼2017年，商务与性能的权衡是各家厂商都在思考的问题。PingWest品玩（微信号：wepingwest）评测过的<a href="http://www.pingwest.com/hp-tried-to-defeat-apple-macbook-with-two-new-ultrabook/">HP EliteBook Folio G1</a>就是一款叫板12寸MacBook的产品。</p>
+<p><img class="aligncenter wp-image-111437" src="http://cdn.pingwest.com/wp-content/uploads/2017/04/IMG_2495-e1492266795636.jpg?imageView2/2/w/750/q/90" alt="IMG_2495" width="2000" height="1333" style="width: 100%;"></p>
+<p>今年它的同门师兄弟来了——HP EliteBook x360 1030 G2惠普精英系列360度变形本（以下简称HP EliteBook x360），新品依旧保持了EliteBook系列超高的颜值，用性能更强的i5/i7处理器替换掉了饱受争议的M系列处理器，13.3寸的屏幕支持360度翻转。另外丰富的接口也是MacBook望尘莫及的。</p>
+<p>先来看看HP EliteBook x360的配置：</p>
+<blockquote><p>13.3英寸 FHD IPS触控屏，最高可选配4K分辨率</p>
+<p>第七代 Core i5/i7 处理器</p>
+<p>14.9mm厚度</p>
+<p>8G内存</p>
+<p>PCIE固态硬盘</p>
+<p>重量小于1.36 kg</p>
+<p>HD620显卡</p></blockquote>
+<p>很明显这一款 HP EliteBook对标的不是MacBook，而是MacBook Pro。</p>
+<p><img class="aligncenter wp-image-111446" src="http://cdn.pingwest.com/wp-content/uploads/2017/04/IMG_2497-e1492267114782.jpg?imageView2/2/w/750/q/90" alt="IMG_2497" width="2000" height="1333" style="width: 100%;"></p>
+<p>HP EliteBook x360的身段更好，360度可翻转机身，更窄的边框。这次HP EliteBook x360内置了丰富的接口，左侧是标准的USB3.1接口、耳麦接口。因为是可以360度翻转，所以侧面配备了音量按键，SIM卡槽、以及SC智能读卡器。右侧则是电源接口、标准USB3.1、HDMI接口、电脑锁孔、USB-C接口，以及一个Micro SD读卡器。不太可能出现G1上接口不够用的问题。</p>
+<p><img class="aligncenter wp-image-111439" src="http://cdn.pingwest.com/wp-content/uploads/2017/04/IMG_2502-e1492266855126.jpg?imageView2/2/w/750/q/90" alt="IMG_2502" width="2000" height="1333" style="width: 100%;"></p>
+<p><img class="aligncenter wp-image-111438" src="http://cdn.pingwest.com/wp-content/uploads/2017/04/IMG_2501-e1492266879767.jpg?imageView2/2/w/750/q/90" alt="IMG_2501" width="2000" height="1333" style="width: 100%;"></p>
+<p>MacBook Pro用户吐槽最多的应该是接口问题了。标准的USB在当前仍然是强需求，配件接入更加方便，而HDMI接口的加入让我简直要站起来鼓掌；我是一个特别不喜欢转接头的人，恨不得只抱着一个笔记本就出门，这次HP EliteBook x360高达16.5个小时的续航和丰富的接口完全可以满足我这一需求。另外，虽然不太常用到，包装盒内很贴心的有两只USB-C转VGA和以太网接口的转接线，以便你在网络环境不那么理想化的情况下可以放心的工作。</p>
+<p><img class="aligncenter wp-image-111440" src="http://cdn.pingwest.com/wp-content/uploads/2017/04/IMG_2511-e1492266919320.jpg?imageView2/2/w/750/q/90" alt="IMG_2511" width="2000" height="1333" style="width: 100%;"></p>
+<p>这次的笔记本包装内附赠了两种不同规格的充电器，分别对应标准充电器接口以及USB-C接口。一个充电器放在家，一个扔在公司，十分方便。</p>
+<p>这次我们拿到的产品搭载了i7-7600U处理器，主频2.80Ghz，内存8G，512G存储空间，HD620显卡的版本。虽然是低电压版本的CPU，但是在我用来工作的一周时间内，它完美的胜任了所有工作，Photoshop、Lightroom批量处理照片都不成问题。</p>
+<p>自带一根电磁笔可以用标配的笔套固定在SC读卡器上，闲暇时间可以圈圈点点的画一些小随笔，晚上闲来无事还跟朋友用模拟器玩了几局你画我猜。</p>
+<p><img class="aligncenter wp-image-111444 size-full" src="http://cdn.pingwest.com/wp-content/uploads/2017/04/IMG_2509-e1492267012103.jpg?imageView2/2/w/750/q/90" alt="IMG_2509" width="2000" height="1333" style="width: 100%;"></p>
+<p>HP EliteBook x360的键盘整体采用了MacBook标准的银黑色配色，实际使用感觉稍硬，但是要比MacBook那种剪刀脚键盘舒服很多，遗憾的是还没有达到ThinkPad的手感。由于定位商务办公，第一排功能键从传统的多媒体健变成了会议专用按键，日程、创建会议、关闭麦克风，接听挂断等小功能非常贴心。</p>
+<p><img class="aligncenter wp-image-111442" src="http://cdn.pingwest.com/wp-content/uploads/2017/04/IMG_2503-e1492266969875.jpg?imageView2/2/w/750/q/90" alt="IMG_2503" width="2000" height="1333" style="width: 100%;"></p>
+<p>对比HP EliteBook&nbsp;Folio，HP EliteBook x360更加强大、稳定、方便，售价9999起。对了，它还有一点是我特别喜欢的，那就是单手无压力的开合，听起来虽然不是很重要，但是你可以试试看，市面上不少笔记本因为阻尼太高都做不到。</p>
+<p><img class="aligncenter size-full wp-image-112493" src="http://cdn.pingwest.com/wp-content/uploads/2017/04/135.jpg?imageView2/2/w/750/q/90" alt="1" width="1322" height="1764" style="width: 100%;"></p>
+<p><span style="margin: 0px; color: black; font-family: '微软雅黑',sans-serif; font-size: 10.5pt;">对于商务办公人士而言，最重要的还是电脑的安全问题，</span><span lang="EN-US" style="margin: 0px; color: black; font-family: 'inherit',serif; font-size: 10.5pt;">HP EliteBook x360</span><span style="margin: 0px; color: black; font-family: '微软雅黑',sans-serif; font-size: 10.5pt;">提供的安全解决方案，</span><span lang="EN-US" style="margin: 0px; color: black; font-family: 'inherit',serif; font-size: 10.5pt;">24</span><span style="margin: 0px; color: black; font-family: '微软雅黑',sans-serif; font-size: 10.5pt;">小时保护电脑信息。例如，</span><span lang="EN-US" style="margin: 0px; color: black; font-family: 'inherit',serif; font-size: 10.5pt;">HP WorkWise</span><span style="margin: 0px; color: black; font-family: '微软雅黑',sans-serif; font-size: 10.5pt;">应用程序通过蓝牙连接手机与</span><span lang="EN-US" style="margin: 0px; color: black; font-family: 'inherit',serif; font-size: 10.5pt;">PC</span><span style="margin: 0px; color: black; font-family: '微软雅黑',sans-serif; font-size: 10.5pt;">端，当电脑遭到篡改时，手机会立即收到通知；或</span><span style="margin: 0px; font-family: '微软雅黑',sans-serif; font-size: 10.5pt;"><span style="color: #000000;">当拿着手机离开电脑时，电脑会自动锁定，当再次回到电脑旁，电脑自动解锁。</span></span></p>
+<p><img class="aligncenter size-full wp-image-112495" src="http://cdn.pingwest.com/wp-content/uploads/2017/04/227.jpg?imageView2/2/w/750/q/90" alt="2" width="1320" height="880" style="width: 100%;"></p>
+<p><span style="margin: 0px; color: black; font-family: '微软雅黑',sans-serif; font-size: 10.5pt;">另外</span><span lang="EN-US" style="margin: 0px; color: black; font-family: 'inherit',serif; font-size: 10.5pt;">, HP Client&nbsp; Security </span><span style="margin: 0px; color: black; font-family: '微软雅黑',sans-serif; font-size: 10.5pt;">作为惠普独家的安全防护软件，可以在密码登录、红外摄像头验证、指纹传感器或智能卡读卡器等多种方式中的选择两种最为开机验证，对电脑起到多重防护的作用。</span></p>
+<p><img class="aligncenter size-full wp-image-112496" src="http://cdn.pingwest.com/wp-content/uploads/2017/04/330.jpg?imageView2/2/w/750/q/90" alt="3" width="1920" height="1080" style="width: 100%;"></p>
+<p><img class="aligncenter wp-image-111445" src="http://cdn.pingwest.com/wp-content/uploads/2017/04/IMG_2507-e1492267047784.jpg?imageView2/2/w/750/q/90" alt="IMG_2507" width="2000" height="1333" style="width: 100%;"></p>
+<p>如果你喜欢Windows多过macOS，又恰巧在寻找一款和MacBook Pro定位相近的笔记本，HP EliteBook x360是一个不错的选择。
+</p><p class="post-footer-wx"><img src="http://cdn.pingwest.com/wp-content/themes/pingwest201603/images/pingwest_userwx.png"><span class="qr-des"><span></span><span>更多内容，关注品玩微信号：<br><b>wepingwest</b></span><span><b>限量开放入群申请……</b></span><span>PingWest品玩的老朋友了？何不扫码加客服进群聊</span></span></p>
+<!-- <div class="pic-by">题图来源：<span><a href="#" target="_blank">Shutterstock</a></span></div>-->
+</div>
+<div class="post-bottom">
+<div class="post-tags">
+<a target="_blank" href="http://www.pingwest.com/tag/%e6%83%a0%e6%99%ae/">惠普</a>                    </div>
+
+<div class="post-share" style="position: relative;">
+<button class="button btn-weibo" title="分享到微博">
+<a target="_blank" href="http://service.weibo.com/share/share.php?appkey=761238391&amp;url=http://www.pingwest.com/hp-elitebook-x360-g2/&amp;ralateUid=2833534593&amp;title=【HP EliteBook X360体验：360度翻转、手写笔这些流行元素它都有了】&amp;pic=http://pingwest.com/wp-content/uploads/2017/04/IMG_2495-e1492266795636.jpg">
+<i class="icon-weibo"></i> 分享到微博
+</a>
+</button>
+<button class="button btn-weixin hidden-xs" title="分享到朋友圈">
+<i class="icon-weixin"></i> 分享到微信
+</button>
+<button class="button btn-linkedin" title="分享到LinkedIn">
+<a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.pingwest.com%2Fhp-elitebook-x360-g2%2F&amp;title=HP+EliteBook+X360%E4%BD%93%E9%AA%8C%EF%BC%9A360%E5%BA%A6%E7%BF%BB%E8%BD%AC%E3%80%81%E6%89%8B%E5%86%99%E7%AC%94%E8%BF%99%E4%BA%9B%E6%B5%81%E8%A1%8C%E5%85%83%E7%B4%A0%E5%AE%83%E9%83%BD%E6%9C%89%E4%BA%86&amp;source=http%3A%2F%2Fwww.pingwest.com%2Fhp-elitebook-x360-g2%2F">
+<i class="icon-linkedin-outline"></i> 分享到LinkedIn
+</a>
+</button>
+<button class="button btn-more dropdown more-dropdown">
+<i class="icon-more"></i>
+<ul class="dropdown-menu">
+<li><a target="_blank" href="https://plus.google.com/share?url=http://www.pingwest.com/hp-elitebook-x360-g2/"><i class="icon-social-googleplus-outline"></i>Google Plus</a></li>
+<li><a target="_blank" href="https://twitter.com/intent/tweet?text=HP EliteBook X360体验：360度翻转、手写笔这些流行元素它都有了http://www.pingwest.com/hp-elitebook-x360-g2/"><i class="icon-social-twitter-outline"></i>Twitter</a></li>
+<li><a target="_blank" href="http://www.facebook.com/sharer.php?u=http://www.pingwest.com/hp-elitebook-x360-g2/&amp;t=HP EliteBook X360体验：360度翻转、手写笔这些流行元素它都有了"><i class="icon-social-facebook-outline"></i>Facebook</a></li>
+<li><a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.pingwest.com/hp-elitebook-x360-g2/&amp;title=HP EliteBook X360体验：360度翻转、手写笔这些流行元素它都有了"><i class="icon-social-linkedin-outline"></i>Linkedin</a></li>
+</ul>
+</button>
+<a class="feed-yilan" href="http://www.wandoujia.com/apps/org.wandoujia.pingwest/preview?from=singlemessage&amp;isappinstalled=0" target="_blank"><img src="http://pingwest.com/wp-content/uploads/2016/03/icon-yilan.png">订阅更多文章</a>
+</div>
+</div>
+<div class="post-comments-wrap" id="pwcomments">
+<div class="comm-hot-title" id="comform-111417">热门评论</div>
+<ul id="mkid" class="comment-list">
+
+
+<li id="comment-332358" class="article-single-comment">
+<span class="comment-avatar">
+<img alt="" src="http://www.pingwest.com/wp-content/themes/pingwest201603/images/cavatar/12.jpg" class="avatar avatar-40" height="40" width="40">        </span>
+<div class="comment-body">
+
+<div class="comment-meta">
+
+
+
+<span class="article-comment-author"> 匿名  <i> （来自北京）</i></span>
+<span class="article-comment-date">2017-04-17</span>
+</div>
+有15寸的就好了，13.3开高分基本啥都看不清楚了        </div>
+<div class="comment-toggle">
+<a class="article-comment-reply" href="javascript:void(0);" cid="332358" is-on="0"><i class="icon-reply"></i>回复</a>
+<span class="article-comment-vote ">
+<i class="icon-thumbs-o-up"></i>0            </span>
+</div>
+</li>
+<li id="comment-332347" class="article-single-comment">
+<span class="comment-avatar">
+<img alt="" src="http://www.pingwest.com/wp-content/themes/pingwest201603/images/cavatar/28.jpg" class="avatar avatar-40" height="40" width="40">        </span>
+<div class="comment-body">
+
+<div class="comment-meta">
+
+
+
+<span class="article-comment-author"> 匿名  <i> （来自上海）</i></span>
+<span class="article-comment-date">2017-04-17</span>
+</div>
+c面是不是都一样
+</div>
+<div class="comment-toggle">
+<a class="article-comment-reply" href="javascript:void(0);" cid="332347" is-on="0"><i class="icon-reply"></i>回复</a>
+<span class="article-comment-vote ">
+<i class="icon-thumbs-o-up"></i>0            </span>
+</div>
+</li>
+<li id="comment-332332" class="article-single-comment">
+<span class="comment-avatar">
+<img alt="" src="http://www.pingwest.com/wp-content/themes/pingwest201603/images/cavatar/23.jpg" class="avatar avatar-40" height="40" width="40">        </span>
+<div class="comment-body">
+
+<div class="comment-meta">
+
+
+
+<span class="article-comment-author"> 匿名  <i> （来自北京）</i></span>
+<span class="article-comment-date">2017-04-17</span>
+</div>
+这个和spectre x360有什么差别        </div>
+<div class="comment-toggle">
+<a class="article-comment-reply" href="javascript:void(0);" cid="332332" is-on="0"><i class="icon-reply"></i>回复</a>
+<span class="article-comment-vote ">
+<i class="icon-thumbs-o-up"></i>0            </span>
+</div>
+</li>
+</ul>
+
+<div class="comments-more">
+<a class="btn-comment button" href="javascript:;" notids="332358,332347,332332">查看其他 2 条评论</a>
+</div>
+
+<div class="article-comment-post">
+
+<div id="respond" class="comment-respond">
+
+<form action="http://www.pingwest.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+<div class="comm-form clearfix">
+
+<div class="comment-avatar">
+<a class="comment-avatar" href="#" rel="nofollow" target="_blank"><img alt="" src="http://www.pingwest.com/wp-content/uploads/2014/12/tim.png" class="avatar avatar-50" height="50" width="50"></a>                                </div>
+<div class="comm-con clearfix">
+<textarea name="comment" class="comm-rich comm-area" id="comment-content" placeholder="输入你的评论..."></textarea>                                    <p class="form-submit">
+<input name="submit" type="submit" id="submit" value="发布">
+<input type="hidden" name="comment_post_ID" value="111417" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="0">
+</p>
+</div>
+
+<div class="toggle-bar clearfix">
+<p class="comment-notes">电子邮件地址不会被公开。 必填项已用<span class="required">*</span>标注</p>                                            <div class="p-input-wrap"><span><input id="author" name="author" type="text" placeholder="姓名" value="" size="30" aria-required="true"></span>
+<span><input id="email" class="required email" name="email" type="text" placeholder="邮箱" value="" size="30" aria-required="true"></span></div>
+<div class="form-action-wrap">
+<div class="logininPost">
+<div class="logininPost" id="new-user-login">
+<p>或者<a class="news-user-login" href="javascript:;" data-toggle="modal" data-target="#ModalLogin">登录</a>发表评论</p>
+</div>
+</div>
+
+<span id="reply-title" class="comment-reply-title"> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wp-admin/admin-ajax.php#respond" style="display:none;">取消回复</a></small></span>
+</div>
+
+</div>
+</div>
+
+
+
+<noscript>&lt;input type="hidden" name="JS04X7" value="NS1" /&gt;</noscript>
+<noscript>&lt;p&gt;&lt;strong&gt;Currently you have JavaScript disabled. In order to post comments, please make sure JavaScript and Cookies are enabled, and reload the page.&lt;/strong&gt; &lt;a href="http://enable-javascript.com/" rel="nofollow external" &gt;Click here for instructions on how to enable JavaScript in your browser.&lt;/a&gt;&lt;/p&gt;</noscript>
+</form>
+</div><!-- #respond -->
+
+</div></div>
+
+
+<div class="post-other">
+<div class="pt-single-area">
+
+<!-- <div class="pt-one">
+
+</div> -->
+<div class="pt-two">
+<a href="https://h5.youzan.com/v2/goods/368z5aa34ftvv" target="_blank" onclick="ga('send', 'event', 'single-end', 'click', 'wushi20170411');">
+<img src="http://pingwest.com/wp-content/uploads/2017/04/xiaopeiyinshui750200.jpg">
+</a>                    </div>
+</div>
+
+
+
+
+</div>
+</div>
+</div>
+</div>
+<!-- end -->
+
+
+
+<div class="single-right">
+<div class="pin-wrapper" style="height: 0px;"><div class="single-side" style="width: 0px;">
+<div class="side-news">
+
+
+
+
+
+
+
+<h2>你可能感兴趣的:</h2>
+<ul class="side-list">
+<li>
+<a href="http://www.pingwest.com/hp-lost-and-searching/" onclick="ga('send', 'event', 'sidebar-recommend', 'click', 'side-recommend-1');" target="_blank">
+
+
+这里有一份硅谷祖师爷的简历，和它 15 年的转型历程
+</a>
+</li>
+<li>
+<a href="http://www.pingwest.com/hp-wasd-computer/" onclick="ga('send', 'event', 'sidebar-recommend', 'click', 'side-recommend-2');" target="_blank">
+
+
+不同玩家不同需求？惠普暗影精灵说他们的新机型可以满足
+</a>
+</li>
+<li>
+<a href="http://www.pingwest.com/hp-tried-to-defeat-apple-macbook-with-two-new-ultrabook/" onclick="ga('send', 'event', 'sidebar-recommend', 'click', 'side-recommend-3');" target="_blank">
+
+
+惠普说它的两款新品能干掉 MacBook 和 MacBook Air，我们替你鉴别了一下
+</a>
+</li>
+<li>
+<a href="http://www.pingwest.com/hp-elite-x3-windows-10-mobile-more-of-a-flagship-than-lumia/" onclick="ga('send', 'event', 'sidebar-recommend', 'click', 'side-recommend-4');" target="_blank">
+
+
+惠普重操旧业，做了一款高端 Windows Phone
+</a>
+</li>
+<li>
+<a href="http://www.pingwest.com/5-big-companies-started-in-a-garage/" onclick="ga('send', 'event', 'sidebar-recommend', 'click', 'side-recommend-5');" target="_blank">
+
+
+在这5个不起眼的车库里，诞生了5家伟大的公司
+</a>
+</li>
+
+
+</ul>
+
+</div>
+
+
+
+</div></div>
+</div>
+</div>
+<img style="display:none;" class="wxshareimg" src="http://s.jiathis.com/qrcode.php?url=http://www.pingwest.com/hp-elitebook-x360-g2/?via=wechat_qr">
+</article></div>
+<!-- This node will contain a number of div.page. -->
+</div>
+</body>

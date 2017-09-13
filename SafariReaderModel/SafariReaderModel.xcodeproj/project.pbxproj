@@ -1,0 +1,395 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		31A3BCF11F693C40003CB430 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 31A3BCF01F693C40003CB430 /* main.m */; };
+		31A3BCF41F693C40003CB430 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 31A3BCF31F693C40003CB430 /* AppDelegate.m */; };
+		31A3BCF71F693C40003CB430 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 31A3BCF61F693C40003CB430 /* ViewController.m */; };
+		31A3BCFA1F693C40003CB430 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 31A3BCF81F693C40003CB430 /* Main.storyboard */; };
+		31A3BCFC1F693C40003CB430 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31A3BCFB1F693C40003CB430 /* Assets.xcassets */; };
+		31A3BCFF1F693C40003CB430 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 31A3BCFD1F693C40003CB430 /* LaunchScreen.storyboard */; };
+		31A3BD0C1F693C9F003CB430 /* noping.txt in Resources */ = {isa = PBXBuildFile; fileRef = 31A3BD071F693C9F003CB430 /* noping.txt */; };
+		31A3BD0D1F693C9F003CB430 /* noping1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 31A3BD081F693C9F003CB430 /* noping1.txt */; };
+		31A3BD0E1F693C9F003CB430 /* 快讯.txt in Resources */ = {isa = PBXBuildFile; fileRef = 31A3BD091F693C9F003CB430 /* 快讯.txt */; };
+		31A3BD0F1F693C9F003CB430 /* 普通文章.txt in Resources */ = {isa = PBXBuildFile; fileRef = 31A3BD0A1F693C9F003CB430 /* 普通文章.txt */; };
+		31A3BD101F693C9F003CB430 /* 黑镜.txt in Resources */ = {isa = PBXBuildFile; fileRef = 31A3BD0B1F693C9F003CB430 /* 黑镜.txt */; };
+		31A3BD1F1F693CC3003CB430 /* PYArticleDetailController.m in Sources */ = {isa = PBXBuildFile; fileRef = 31A3BD141F693CC3003CB430 /* PYArticleDetailController.m */; };
+		31A3BD201F693CC3003CB430 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 31A3BD151F693CC3003CB430 /* index.html */; };
+		31A3BD221F693CC3003CB430 /* safari-reader-check.js in Resources */ = {isa = PBXBuildFile; fileRef = 31A3BD191F693CC3003CB430 /* safari-reader-check.js */; };
+		31A3BD231F693CC3003CB430 /* safari-reader.js in Resources */ = {isa = PBXBuildFile; fileRef = 31A3BD1A1F693CC3003CB430 /* safari-reader.js */; };
+		31A3BD281F693CD5003CB430 /* webViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 31A3BD271F693CD5003CB430 /* webViewController.m */; };
+		31A3BD2A1F693FD5003CB430 /* safari_test.html in Resources */ = {isa = PBXBuildFile; fileRef = 31A3BD291F693FD5003CB430 /* safari_test.html */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		31A3BCEC1F693C40003CB430 /* SafariReaderModel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SafariReaderModel.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		31A3BCF01F693C40003CB430 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		31A3BCF21F693C40003CB430 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		31A3BCF31F693C40003CB430 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		31A3BCF51F693C40003CB430 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		31A3BCF61F693C40003CB430 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		31A3BCF91F693C40003CB430 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		31A3BCFB1F693C40003CB430 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		31A3BCFE1F693C40003CB430 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		31A3BD001F693C40003CB430 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		31A3BD071F693C9F003CB430 /* noping.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = noping.txt; sourceTree = "<group>"; };
+		31A3BD081F693C9F003CB430 /* noping1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = noping1.txt; sourceTree = "<group>"; };
+		31A3BD091F693C9F003CB430 /* 快讯.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "快讯.txt"; sourceTree = "<group>"; };
+		31A3BD0A1F693C9F003CB430 /* 普通文章.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "普通文章.txt"; sourceTree = "<group>"; };
+		31A3BD0B1F693C9F003CB430 /* 黑镜.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "黑镜.txt"; sourceTree = "<group>"; };
+		31A3BD131F693CC3003CB430 /* PYArticleDetailController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PYArticleDetailController.h; sourceTree = "<group>"; };
+		31A3BD141F693CC3003CB430 /* PYArticleDetailController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PYArticleDetailController.m; sourceTree = "<group>"; };
+		31A3BD151F693CC3003CB430 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		31A3BD191F693CC3003CB430 /* safari-reader-check.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "safari-reader-check.js"; sourceTree = "<group>"; };
+		31A3BD1A1F693CC3003CB430 /* safari-reader.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "safari-reader.js"; sourceTree = "<group>"; };
+		31A3BD261F693CD5003CB430 /* webViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = webViewController.h; sourceTree = "<group>"; };
+		31A3BD271F693CD5003CB430 /* webViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = webViewController.m; sourceTree = "<group>"; };
+		31A3BD291F693FD5003CB430 /* safari_test.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = safari_test.html; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		31A3BCE91F693C40003CB430 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		31A3BCE31F693C40003CB430 = {
+			isa = PBXGroup;
+			children = (
+				31A3BCEE1F693C40003CB430 /* SafariReaderModel */,
+				31A3BCED1F693C40003CB430 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		31A3BCED1F693C40003CB430 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				31A3BCEC1F693C40003CB430 /* SafariReaderModel.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		31A3BCEE1F693C40003CB430 /* SafariReaderModel */ = {
+			isa = PBXGroup;
+			children = (
+				31A3BD061F693C9F003CB430 /* 文章内容 */,
+				31A3BCF21F693C40003CB430 /* AppDelegate.h */,
+				31A3BCF31F693C40003CB430 /* AppDelegate.m */,
+				31A3BCF51F693C40003CB430 /* ViewController.h */,
+				31A3BCF61F693C40003CB430 /* ViewController.m */,
+				31A3BD261F693CD5003CB430 /* webViewController.h */,
+				31A3BD271F693CD5003CB430 /* webViewController.m */,
+				31A3BD111F693CC3003CB430 /* ArticleDetailController */,
+				31A3BCF81F693C40003CB430 /* Main.storyboard */,
+				31A3BCFB1F693C40003CB430 /* Assets.xcassets */,
+				31A3BCFD1F693C40003CB430 /* LaunchScreen.storyboard */,
+				31A3BD001F693C40003CB430 /* Info.plist */,
+				31A3BCEF1F693C40003CB430 /* Supporting Files */,
+			);
+			path = SafariReaderModel;
+			sourceTree = "<group>";
+		};
+		31A3BCEF1F693C40003CB430 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				31A3BCF01F693C40003CB430 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		31A3BD061F693C9F003CB430 /* 文章内容 */ = {
+			isa = PBXGroup;
+			children = (
+				31A3BD071F693C9F003CB430 /* noping.txt */,
+				31A3BD081F693C9F003CB430 /* noping1.txt */,
+				31A3BD091F693C9F003CB430 /* 快讯.txt */,
+				31A3BD0A1F693C9F003CB430 /* 普通文章.txt */,
+				31A3BD0B1F693C9F003CB430 /* 黑镜.txt */,
+			);
+			path = "文章内容";
+			sourceTree = "<group>";
+		};
+		31A3BD111F693CC3003CB430 /* ArticleDetailController */ = {
+			isa = PBXGroup;
+			children = (
+				31A3BD121F693CC3003CB430 /* C */,
+				31A3BD151F693CC3003CB430 /* index.html */,
+				31A3BD191F693CC3003CB430 /* safari-reader-check.js */,
+				31A3BD1A1F693CC3003CB430 /* safari-reader.js */,
+				31A3BD291F693FD5003CB430 /* safari_test.html */,
+			);
+			path = ArticleDetailController;
+			sourceTree = "<group>";
+		};
+		31A3BD121F693CC3003CB430 /* C */ = {
+			isa = PBXGroup;
+			children = (
+				31A3BD131F693CC3003CB430 /* PYArticleDetailController.h */,
+				31A3BD141F693CC3003CB430 /* PYArticleDetailController.m */,
+			);
+			path = C;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		31A3BCEB1F693C40003CB430 /* SafariReaderModel */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 31A3BD031F693C40003CB430 /* Build configuration list for PBXNativeTarget "SafariReaderModel" */;
+			buildPhases = (
+				31A3BCE81F693C40003CB430 /* Sources */,
+				31A3BCE91F693C40003CB430 /* Frameworks */,
+				31A3BCEA1F693C40003CB430 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SafariReaderModel;
+			productName = SafariReaderModel;
+			productReference = 31A3BCEC1F693C40003CB430 /* SafariReaderModel.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		31A3BCE41F693C40003CB430 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = Frank;
+				TargetAttributes = {
+					31A3BCEB1F693C40003CB430 = {
+						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = JXGTH325G3;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 31A3BCE71F693C40003CB430 /* Build configuration list for PBXProject "SafariReaderModel" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 31A3BCE31F693C40003CB430;
+			productRefGroup = 31A3BCED1F693C40003CB430 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				31A3BCEB1F693C40003CB430 /* SafariReaderModel */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		31A3BCEA1F693C40003CB430 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				31A3BD221F693CC3003CB430 /* safari-reader-check.js in Resources */,
+				31A3BCFF1F693C40003CB430 /* LaunchScreen.storyboard in Resources */,
+				31A3BD101F693C9F003CB430 /* 黑镜.txt in Resources */,
+				31A3BCFC1F693C40003CB430 /* Assets.xcassets in Resources */,
+				31A3BD2A1F693FD5003CB430 /* safari_test.html in Resources */,
+				31A3BD201F693CC3003CB430 /* index.html in Resources */,
+				31A3BD231F693CC3003CB430 /* safari-reader.js in Resources */,
+				31A3BD0E1F693C9F003CB430 /* 快讯.txt in Resources */,
+				31A3BD0D1F693C9F003CB430 /* noping1.txt in Resources */,
+				31A3BCFA1F693C40003CB430 /* Main.storyboard in Resources */,
+				31A3BD0C1F693C9F003CB430 /* noping.txt in Resources */,
+				31A3BD0F1F693C9F003CB430 /* 普通文章.txt in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		31A3BCE81F693C40003CB430 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				31A3BCF71F693C40003CB430 /* ViewController.m in Sources */,
+				31A3BD281F693CD5003CB430 /* webViewController.m in Sources */,
+				31A3BCF41F693C40003CB430 /* AppDelegate.m in Sources */,
+				31A3BD1F1F693CC3003CB430 /* PYArticleDetailController.m in Sources */,
+				31A3BCF11F693C40003CB430 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		31A3BCF81F693C40003CB430 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				31A3BCF91F693C40003CB430 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		31A3BCFD1F693C40003CB430 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				31A3BCFE1F693C40003CB430 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		31A3BD011F693C40003CB430 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		31A3BD021F693C40003CB430 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		31A3BD041F693C40003CB430 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = JXGTH325G3;
+				INFOPLIST_FILE = SafariReaderModel/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.PingWest.SafariReaderModel;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		31A3BD051F693C40003CB430 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = JXGTH325G3;
+				INFOPLIST_FILE = SafariReaderModel/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.PingWest.SafariReaderModel;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		31A3BCE71F693C40003CB430 /* Build configuration list for PBXProject "SafariReaderModel" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				31A3BD011F693C40003CB430 /* Debug */,
+				31A3BD021F693C40003CB430 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		31A3BD031F693C40003CB430 /* Build configuration list for PBXNativeTarget "SafariReaderModel" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				31A3BD041F693C40003CB430 /* Debug */,
+				31A3BD051F693C40003CB430 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 31A3BCE41F693C40003CB430 /* Project object */;
+}
