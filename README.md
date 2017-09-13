@@ -6,3 +6,9 @@ safari浏览器的阅读模式, 提取HTML主体内容
 
 原github地址: https://github.com/HorkyChen/iOSSafariReaderMode.git
 
+Safari Reader Source Code 获取方法: 
+http://blog.manbolo.com/2013/03/18/safari-reader-source-code
+    
+
+
+
